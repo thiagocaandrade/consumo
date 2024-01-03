@@ -1,4 +1,4 @@
-package com.daiene.consumo.model;
+package com.thiago.consumo.model;
 
 public class Endereco {
 	
